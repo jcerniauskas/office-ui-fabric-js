@@ -1931,8 +1931,6 @@ var fabric;
     fabric.ContextualMenu = ContextualMenu;
 })(fabric || (fabric = {}));
 
-"use strict";
-
 // Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See LICENSE in the project root for license information.
 // @TODO - we can add this once jquery is removed
 // "use strict";

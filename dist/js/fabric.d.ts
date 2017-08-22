@@ -541,15 +541,6 @@ declare namespace fabric {
     }
 }
 
-export interface IContextualMenuItem {
-    title: string;
-    state: string;
-}
-export interface IContextualMenu {
-    items: Array<IContextualMenuItem>;
-    state?: string;
-}
-
 /// <reference path="../../../typings/jquery.d.ts" />
 /// <reference path="../../../typings/pickadate.d.ts" />
 declare namespace fabric {
